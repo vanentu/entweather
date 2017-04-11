@@ -1,0 +1,5 @@
+﻿git clone https://github.com/vanentu/entweather.git
+
+git add .
+git commit -m "first commit"
+git push origin master
